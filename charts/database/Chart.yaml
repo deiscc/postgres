@@ -1,5 +1,5 @@
 name: database
-home: https://github.com/teamhephy/postgres
+home: https://github.com/deiscc/postgres
 version: <Will be populated by the ci before publishing the chart>
 description: A PostgreSQL database used by Deis Workflow.
 keywords:
@@ -7,4 +7,4 @@ keywords:
   - postgres
 maintainers:
   - name: Deis Team
-    email: engineering@deis.com
+    email: engineering@deis.cc
